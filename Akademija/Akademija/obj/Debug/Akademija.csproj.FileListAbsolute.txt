@@ -1,0 +1,14 @@
+C:\ASP\Akademija\Akademija\Akademija\bin\Debug\Akademija.exe.config
+C:\ASP\Akademija\Akademija\Akademija\bin\Debug\Akademija.exe
+C:\ASP\Akademija\Akademija\Akademija\bin\Debug\Akademija.pdb
+C:\ASP\Akademija\Akademija\Akademija\obj\Debug\Akademija.csproj.AssemblyReference.cache
+C:\ASP\Akademija\Akademija\Akademija\obj\Debug\Akademija.csproj.SuggestedBindingRedirects.cache
+C:\ASP\Akademija\Akademija\Akademija\obj\Debug\Akademija.Form1.resources
+C:\ASP\Akademija\Akademija\Akademija\obj\Debug\Akademija.Properties.Resources.resources
+C:\ASP\Akademija\Akademija\Akademija\obj\Debug\Akademija.csproj.GenerateResource.cache
+C:\ASP\Akademija\Akademija\Akademija\obj\Debug\Akademija.csproj.CoreCompileInputs.cache
+C:\ASP\Akademija\Akademija\Akademija\obj\Debug\Akademija.exe
+C:\ASP\Akademija\Akademija\Akademija\obj\Debug\Akademija.pdb
+C:\ASP\Akademija\Akademija\Akademija\obj\Debug\Akademija.NoviStudent.resources
+C:\ASP\Akademija\Akademija\Akademija\obj\Debug\Akademija.NoviPredmet.resources
+C:\ASP\Akademija\Akademija\Akademija\obj\Debug\Akademija.PrijavaIspita.resources
